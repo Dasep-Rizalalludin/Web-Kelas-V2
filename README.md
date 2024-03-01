@@ -14,7 +14,7 @@ Apa yang dapat Anda temukan di web ini:
 - Gallery: Menampilkan gambar-gambar menarik yang terkait dengan kelas kami.
 - Structure And Schedule: Memberikan informasi rinci tentang struktur kelas dan jadwal yang tersedia.
 
-Project ini di buat oleh :
+Project ini di buat oleh :dasep
 - Eki
 - Dafy
 
